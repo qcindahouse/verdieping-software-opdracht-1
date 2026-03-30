@@ -34,3 +34,5 @@ Random getal (1–100)
 Moeilijkheidsniveaus
 Feedback per gok
 Teller voor pogingen
+
+https://roadmap.sh/projects/number-guessing-game
