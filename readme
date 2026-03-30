@@ -1,0 +1,15 @@
+ Een simpele CLI-game in Go waarin je een getal moet raden tussen 1 en 100.
+ De computer kiest een willekeurig getal.
+ Jij kiest een moeilijkheid:
+ Easy → 10 pogingen
+Medium → 7 pogingen
+ Hard → 5 pogingen
+ Na elke gok krijg je feedback
+
+  Je wint als je het juiste getal raadt 
+Je verliest als je geen pogingen meer hebt 
+
+Open je terminal en run:
+go run main.go
+
+https://roadmap.sh/projects/number-guessing-game
